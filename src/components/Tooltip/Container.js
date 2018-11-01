@@ -73,6 +73,9 @@ const JoyrideTooltipContainer = ({
           <div style={styles.tooltipContent}>
             {content}
           </div>
+          <div style={styles.tooltipContent}>
+            {content}
+          </div>
         )}
       </div>
       <div style={styles.tooltipFooter}>
